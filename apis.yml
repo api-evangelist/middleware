@@ -1,32 +1,64 @@
 aid: middleware
 name: Middleware
 description: >-
-  Middleware is an API monitoring and observability platform with real-time troubleshooting, auto-instrumentation, and AI-powered workflows.
+  Middleware is a cloud-native observability platform that provides full-stack
+  monitoring including infrastructure, APM, log management, and real-time
+  alerting with AI-powered insights and auto-instrumentation.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API Analysis
+  - Observability
   - API Monitoring
+  - APM
+  - Log Management
+  - Infrastructure Monitoring
+  - AI Operations
 url: >-
   https://raw.githubusercontent.com/api-evangelist/middleware/refs/heads/main/apis.yml
 created: '2026-03-26'
 modified: '2026-03-26'
 specificationVersion: '0.19'
 apis:
-  - aid: middleware:middleware
-    name: Middleware
+  - aid: middleware:middleware-api
+    name: Middleware API
     description: >-
-      Middleware is an API monitoring and observability platform with real-time troubleshooting, auto-instrumentation, and AI-powered workflows.
+      The Middleware API provides programmatic access to observability data
+      including metrics, logs, traces, and alerts, enabling integration of
+      monitoring and observability into DevOps workflows.
     humanURL: https://middleware.io
-    tags:
-      - API Analysis
-      - API Monitoring
     properties:
       - type: Documentation
         url: https://docs.middleware.io
+      - type: GettingStarted
+        url: https://docs.middleware.io/getting-started
+      - type: GitHubOrg
+        url: https://github.com/middleware-labs
+      - type: Integrations
+        url: https://middleware.io/integrations
+    tags:
+      - Observability
+      - API Monitoring
+      - APM
+      - Log Management
 common:
   - type: Website
     url: https://middleware.io
+  - type: Documentation
+    url: https://docs.middleware.io
+  - type: Blog
+    url: https://middleware.io/blog
+  - type: Pricing
+    url: https://middleware.io/pricing
+  - type: GitHub
+    url: https://github.com/middleware-labs
+  - type: Login
+    url: https://app.middleware.io
+  - type: Signup
+    url: https://app.middleware.io/auth/signup
+  - type: Support
+    url: https://middleware.io/support
+  - type: Integrations
+    url: https://middleware.io/integrations
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
