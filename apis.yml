@@ -1,0 +1,32 @@
+aid: middleware
+name: Middleware
+description: >-
+  Middleware is an API monitoring and observability platform with real-time troubleshooting, auto-instrumentation, and AI-powered workflows.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API Analysis
+  - API Monitoring
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/middleware/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: middleware:middleware
+    name: Middleware
+    description: >-
+      Middleware is an API monitoring and observability platform with real-time troubleshooting, auto-instrumentation, and AI-powered workflows.
+    humanURL: https://middleware.io
+    tags:
+      - API Analysis
+      - API Monitoring
+    properties:
+      - type: Documentation
+        url: https://docs.middleware.io
+common:
+  - type: Website
+    url: https://middleware.io
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
