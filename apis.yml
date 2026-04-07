@@ -7,12 +7,12 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Observability
+  - AI Operations
   - API Monitoring
   - APM
-  - Log Management
   - Infrastructure Monitoring
-  - AI Operations
+  - Log Management
+  - Observability
 url: >-
   https://raw.githubusercontent.com/api-evangelist/middleware/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -36,10 +36,10 @@ apis:
       - type: Integrations
         url: https://middleware.io/integrations
     tags:
-      - Observability
       - API Monitoring
       - APM
       - Log Management
+      - Observability
 common:
   - type: Website
     url: https://middleware.io
