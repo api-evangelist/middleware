@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "name": "name",
+    "description": "description",
+    "url": "url",
+    "Middleware": {
+      "@id": "https://middleware.io",
+      "@type": "SoftwareApplication"
+    },
+    "Observability": "https://schema.org/Service",
+    "InfrastructureMonitoring": "https://schema.org/Service",
+    "APM": "https://schema.org/Service",
+    "LogManagement": "https://schema.org/Service",
+    "RealUserMonitoring": "https://schema.org/Service",
+    "DatabaseMonitoring": "https://schema.org/Service",
+    "ContainerMonitoring": "https://schema.org/Service",
+    "SyntheticMonitoring": "https://schema.org/Service",
+    "ServerlessMonitoring": "https://schema.org/Service",
+    "LLMObservability": "https://schema.org/Service"
+  },
+  "@type": "SoftwareApplication",
+  "name": "Middleware",
+  "description": "Cloud-native observability platform offering full-stack monitoring including infrastructure, APM, logs, RUM, database, container, synthetic, serverless, and LLM observability.",
+  "url": "https://middleware.io",
+  "applicationCategory": "Observability"
+}
