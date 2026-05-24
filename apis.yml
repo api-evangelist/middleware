@@ -74,6 +74,8 @@ common:
     url: https://middleware.io/integrations
   - type: JSONLD
     url: json-ld/middleware-context.jsonld
+  - type: LLMsTxt
+    url: https://middleware.io/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
