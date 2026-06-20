@@ -7,7 +7,7 @@ description: >-
   serverless monitoring, and LLM observability with AI-powered insights and
   auto-instrumentation across 200+ integrations.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - AI Operations
   - APM
