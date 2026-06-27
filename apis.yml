@@ -66,7 +66,7 @@ common:
     url: https://github.com/middleware-labs
   - type: Login
     url: https://app.middleware.io
-  - type: SignUp
+  - type: Signup
     url: https://app.middleware.io/auth/signup
   - type: Support
     url: https://middleware.io/support
@@ -74,7 +74,7 @@ common:
     url: https://middleware.io/integrations
   - type: JSONLD
     url: json-ld/middleware-context.jsonld
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://middleware.io/llms.txt
 maintainers:
   - FN: Kin Lane
