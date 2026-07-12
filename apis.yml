@@ -52,6 +52,12 @@ apis:
       - type: Integrations
         url: https://middleware.io/integrations
 common:
+  - type: TrustCenter
+    url: security/middleware-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/middleware-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/middleware-domain-security.yml
   - type: Website
     url: https://middleware.io
   - type: Documentation
