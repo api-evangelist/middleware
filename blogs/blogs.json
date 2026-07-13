@@ -2,13 +2,14 @@
   "repo": "middleware",
   "feeds": [
     {
-      "source": "https://middleware.io/blog",
-      "feed_url": "",
-      "saved": 4,
-      "method": "agent-scrape"
+      "source": "https://docs.middleware.io/public-api/api",
+      "feed_url": "https://docs.middleware.io/public-api/api",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 13,
-  "fetched": "2026-06-27T12:54:25Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 18,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
